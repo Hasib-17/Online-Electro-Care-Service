@@ -1,5 +1,5 @@
 
-# Online Service Management System
+# OECS::Online Electro-Care Service 
 
 
 The Online Electro-Care Service is a comprehensive web application with realtime Chatbot designed to streamline and manage various services provided by a business. It offers an efficient platform for service requests, scheduling, and customer management, all in one integrated system. The application includes a dashboard, login system, user panel, admin panel, and more.
@@ -120,5 +120,6 @@ Accessing the project involves a few steps:
 * Start the Apache and MySQL services in XAMPP, and access the application via your web browser at http://localhost/5000.
 
 ## Conclusion
+
 
 The OECS is a robust solution for businesses looking to streamline their service operations. With its powerful features, including a dashboard, login system, user panel, and admin panel, it simplifies the management of service requests, scheduling, and customer data. This system enhances efficiency and customer satisfaction, making it an ideal choice for businesses of all sizes. Whether you're a small business or a larger enterprise, this system can be tailored to meet your specific needs and help you deliver exceptional service to your customers.
